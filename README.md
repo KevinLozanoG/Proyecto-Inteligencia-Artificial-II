@@ -1,5 +1,7 @@
 # Proyecto Inteligencia Artificial II
 
+![](https://github.com/KevinLozanoG/Proyecto-Inteligencia-Artificial-II/blob/main/Banner/Banner.png)
+
 Título: <br>
 Detección de comportamientos distractores al conducir un automóvil.
 
