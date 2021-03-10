@@ -11,7 +11,7 @@ State Farm Distracted Driver Detection  <br>
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
 Modelo: <br>
-CNN, VGG16, VGG19, InceptionV3. 
+CNN, VGG16, VGG19, DenseNet169, InceptionV3. 
 
 URL vídeo: <br>
 
