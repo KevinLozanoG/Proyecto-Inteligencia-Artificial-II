@@ -16,6 +16,7 @@ Modelos: <br>
 CNN, VGG16, VGG19, DenseNet169.
 
 URL vídeo: <br>
+https://youtu.be/W05nYIIqyi4
 
 Estudiantes: <br>
 -2172016 - Kevin Javier Lozano Galvis <br>
