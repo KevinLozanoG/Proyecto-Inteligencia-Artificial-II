@@ -10,7 +10,7 @@ Dataset: <br>
 State Farm Distracted Driver Detection  <br>
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
-Modelo: <br>
+Modelos: <br>
 CNN, VGG16, VGG19, DenseNet169, InceptionV3. 
 
 URL vídeo: <br>
