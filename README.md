@@ -3,7 +3,7 @@
 Título: <br>
 Detección de comportamientos distractores al conducir un automóvil
 
-Objetivo <br>
+Objetivo: <br>
 Aplicar los métodos de Deep Learning para detectar distracciones manuales a partir de la actividad que realizan los conductores
 
 Dataset: <br>
