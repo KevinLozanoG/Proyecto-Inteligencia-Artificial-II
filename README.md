@@ -10,5 +10,15 @@ Dataset: <br>
 State Farm Distracted Driver Detection  <br>
 https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
+Modelo: <br>
+CNN, VGG16, VGG19, InceptionV3. 
+
+URL vídeo: <br>
+
+Estudiantes: <br>
+-2172016 - Kevin Javier Lozano Galvis <br>
+-2170688 - Brayan Rofoldo Barajas Ochoa
+
+
 
  
